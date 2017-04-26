@@ -14,6 +14,7 @@
 		E3B0E3FD1EB134800037741C /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E3B0E3FB1EB134800037741C /* LaunchScreen.storyboard */; };
 		E3B0E4081EB134800037741C /* Snapchat_CloneTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B0E4071EB134800037741C /* Snapchat_CloneTests.swift */; };
 		E3B0E4131EB134800037741C /* Snapchat_CloneUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3B0E4121EB134800037741C /* Snapchat_CloneUITests.swift */; };
+		E3B0E4211EB136A30037741C /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = E3B0E4201EB136A30037741C /* GoogleService-Info.plist */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		E3B0E40E1EB134800037741C /* Snapchat CloneUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Snapchat CloneUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3B0E4121EB134800037741C /* Snapchat_CloneUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Snapchat_CloneUITests.swift; sourceTree = "<group>"; };
 		E3B0E4141EB134800037741C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3B0E4201EB136A30037741C /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -103,6 +105,7 @@
 				E3B0E3F91EB1347F0037741C /* Assets.xcassets */,
 				E3B0E3FB1EB134800037741C /* LaunchScreen.storyboard */,
 				E3B0E3FE1EB134800037741C /* Info.plist */,
+				E3B0E4201EB136A30037741C /* GoogleService-Info.plist */,
 			);
 			path = "Snapchat Clone";
 			sourceTree = "<group>";
@@ -233,6 +236,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3B0E3FD1EB134800037741C /* LaunchScreen.storyboard in Resources */,
+				E3B0E4211EB136A30037741C /* GoogleService-Info.plist in Resources */,
 				E3B0E3FA1EB1347F0037741C /* Assets.xcassets in Resources */,
 				E3B0E3F81EB1347F0037741C /* Main.storyboard in Resources */,
 			);
